@@ -1,2 +1,2 @@
 # git
-This is a demo of resturant website
+This is a dummy website of resturant.
